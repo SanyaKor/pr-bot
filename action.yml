@@ -1,4 +1,4 @@
-name: "PR MiniBot (Python)"
+name: "PR MiniBot"
 description: "Runs python script on pull_request and can comment on PR"
 
 inputs:
